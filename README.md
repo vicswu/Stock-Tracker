@@ -43,7 +43,7 @@ mysql> CREATE DATABASE Stock_Tracker;
 
 Once everything is set up correctly, you can use Stock Tracker to keep track of a specific stock's price, P/E ratio and expert opinion thanks to its web scraping capabilities. The data is taken from Market Beat and kept in the MySQL database for future loading.
 
-
+<img width="1440" alt="Screen Shot 2020-06-24 at 1 32 35 PM" src="https://user-images.githubusercontent.com/59456972/85610603-23452280-b625-11ea-9d1d-9c0a8b798e54.png">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
